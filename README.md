@@ -10,7 +10,7 @@ Software development is done by the owner of a sprite-sat.
 
 Flight trough space by the sprite-sat will have a tumbling character that will affect powergeneration by the solarcells as well as sensor readings. To help with the simulation of these effects on earth while studying, a cardian suspension was created to simulate the tumbling character of space flight.
 
-![AmbaSat spaceflight simulator](media/2020-12-24 15.19.06_small.jpg
+![AmbaSat spaceflight simulator](media/2020-12-24_15.19.06_small.jpg
  "AmbaSat sprite-sat spaceflight-simulator")
 
 The cardian suspension can be 3D printed using the STL files in this repository.
